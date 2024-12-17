@@ -7,10 +7,10 @@ Repo for Optimization Project on exploration of step size algorithms for Frank-W
 
   
 ## Contribution
-- Ignat Romanov 
-- Boris Mikheev
-- Petr Sychev
-- Elfat Sabitov
+- Ignat Romanov: core algorithms development, main experiments
+- Boris Mikheev: theory research, report, presentation
+- Petr Sychev: theory research, report, presentation
+- Elfat Sabitov: core algorithms development, additional experiments
 
 [^1]: Originally published as Frank, Marguerite, and Philip Wolfe. ["An algorithm for quadratic programming."](http://dx.doi.org/10.1002/nav.3800030109) Naval Research Logistics (1956).
 [^2]: Demyanov, Vladimir and Rubinov, Aleksandr (1968) [“Minimization of functionals in normed spaces”](https://doi.org/10.1137/0306006). SIAM Journal on Control.
